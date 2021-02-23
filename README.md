@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast"></p>
-<p align="center"><img width="100" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif"></p>
+<p align="left"><img width="100" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif"></p>
 <p align="left"><a href="https://github.com/grindklast"><img src="https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&theme=cobalt"></a>
+<p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast"></p>
