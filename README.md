@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hewwo and welcome to my Github Profile!
+
+<img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast" /><br>
+
+| **SUMMARY**                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Grindklast Github Stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true)](https://github.com/grindklast/github-readme-stats) |
 
 <!--
 **grindklast/grindklast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
