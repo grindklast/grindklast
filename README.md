@@ -1,5 +1,5 @@
 [![Grindklast's github stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grindklast&layout=compact&hide_border=true)](https://github.com/grindklast)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grindklast&layout=compact&hide_border=true)](https://github.com/grindklast)<br>
 <img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast" /><br>
 
 <!--
