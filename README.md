@@ -1,10 +1,6 @@
-## Hewwo and welcome to my Github Profile!
-<img width="100" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif">
+[![Grindklast's github stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grindklast&layout=compact&hide_border=true)](https://github.com/grindklast)
 <img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast" /><br>
-
-| **SUMMARY**                                                                                                                                                     |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Grindklast Github Stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&theme=blue-green)](https://github.com/grindklast/github-readme-stats) |
 
 <!--
 **grindklast/grindklast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
