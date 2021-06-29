@@ -1,4 +1,4 @@
-[![Grindklast's github stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&count_private=true&hide_border=true)
+![Grindklast's github stats](https://github-readme-stats.vercel.app/api?username=grindklast&show_icons=true&count_private=true&hide_border=true)
 <p><img width="125" src="https://komarev.com/ghpvc/?username=grindklast&style=flat-square" alt="grindklast" /></p>
 
 <!--
